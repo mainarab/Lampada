@@ -1,5 +1,6 @@
-# Lâmpada
- Projeto de uma Lâmpada feito no curso de Web Design: Front-end do SENAI
+# Projeto Lâmpada
+ Esse é o projeto de uma Lâmpada feito no curso de Web Design: Front-end do SENAI
+ ***
 
  **Nesse projeto você pode:**
  
